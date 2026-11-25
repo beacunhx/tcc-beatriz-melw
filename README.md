@@ -1,6 +1,6 @@
 # Braço robótico separador de objetos por cor com saída em áudio
 
-Protótipo de baixo custo de um braço robótico que identifica a cor de uma peça, **anuncia a cor em voz alta** e leva a peça até o nicho correspondente. A saída em áudio torna o sistema acessível a pessoas com deficiência na percepção cromática (daltonismo).
+Protótipo de baixo custo de um braço robótico que identifica a cor de uma peça, anuncia a cor em voz alta e leva a peça até o nicho correspondente. A saída em áudio torna o sistema acessível a pessoas com deficiência na percepção cromática (daltonismo).
 
 Projeto desenvolvido como Trabalho de Conclusão de Curso em **Engenharia de Controle e Automação** na **PUC-Campinas** (2026).
 
@@ -89,7 +89,7 @@ O código já traz, comentada, uma implementação de **cinemática inversa** pa
 
 ## Autoria
 
-- Beatriz _[sobrenome]_
+- Beatriz Cunha
 - Melw Vila Nova
 
 **Orientador:** Prof. Dr. Fabio Da Silva Menegatti
